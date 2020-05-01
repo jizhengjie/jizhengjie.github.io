@@ -1372,7 +1372,7 @@ Tidings
 <td align="left">to come</td>
 </tr>
 </tbody></table>
-<h1 id="对话-打招呼"><a href="#对话-打招呼" class="headerlink" title="对话 - 打招呼"></a>对话 - 打招呼</h1>]]></content>
+<h1 id="5-4-对话-打招呼"><a href="#5-4-对话-打招呼" class="headerlink" title="5.4 对话 - 打招呼"></a>5.4 对话 - 打招呼</h1>]]></content>
       <categories>
         <category>Language</category>
       </categories>
@@ -1395,6 +1395,30 @@ A debate
 <p>Eobhan is waiting in the great hall and Glorfindel is going to Elrond.<br>Glorfindel: A man desires to bring news.<br>Elrond: I want the man to enter.<br>Eobhan: Well met, Elrond. The men of the Misty Mountains desire the<br>help of the elves. A horrible fate troubles us. Wild orcs slay<br>women and children. The famous skill of the elves in battle is<br>known.<br>Elrond: The elves do not give help. The elvish things won’t be the things<br>of the men.<br>Arwen: Why, father?<br>Gilraed: It is old friendship.<br>Elrond: The men don’t defend the elves either.<br>Glorfindel: It is not good.<br>Elrond: The elves who desire to go can go. I stay.</p>
 </td></tr></table></html>
 
+<h1 id="6-2-语法"><a href="#6-2-语法" class="headerlink" title="6.2 语法"></a>6.2 语法</h1><h1 id="6-2-1-形容词"><a href="#6-2-1-形容词" class="headerlink" title="6.2.1 形容词"></a>6.2.1 形容词</h1><p>Sindarin的形容词和名词的差别不是很大，很多词甚至可以既当做名词又当做形容词，比如 morn 既可以表达‘暗’也可以表示‘黑暗’。和英语不同，Sindarin的形容词必须在数量上和名词保持一致：如果名词以复数形式出现，则形容词必须也是如此。形容词的复数形式和名词的i-影响完全相同，所以我们不必再次讨论。</p>
+<p>描述名词的形容词通常跟在这个名词后（只有在诗歌词序中，形容词才可以放在名词前），并会在这个位置弱突变（见 Lesson 3）。但是形容词也可能作为副词使用，并且由于这个原因或者其它的原因偶然地出现在名词之后：如果在形容词和名词之间没有连接词，那弱突变也不会发生。我们会在之后的课程中详细讲到这些点，并在那个时候给出一些例子：</p>
+<p>ylf dawaren (a wooden drinking-vessel)<br>ylf tawaren (a drinking-vessel is wooden)<br>ylf dewerin (wooden drinking-vessels)</p>
+<p>很多形容词是通过名词和词尾 -eb，-ui 和 -en 构成的。在这里，词尾 -eb 常常表示‘full of’，词尾 -(r)en 被用来描绘某个物体不变的性质，而词尾 -ui 常常表示瞬时性质。然而，这不是一直成立的。</p>
+<p>aglar (fame)       -&gt; aglareb (famous)<br>brass (white heat) -&gt; brassen (white hot)<br>úan (monster)      -&gt; uanui (monstrous)<br>celeb (silver)     -&gt; *celebeb (full of silver)<br>celeb (silver)     -&gt; celebren (of silver)</p>
+<p>比较级是由前缀 an- 帮助构成的。根据推断，在这种情况下形容词会发生鼻音突变。</p>
+<p>alag (wild)         -&gt; analag (wilder)<br>beleg (great)       -&gt; ammeleg (greater)<br>brassen (white hot) -&gt; amrassen (more than white hot)<br>tawaren (wooden)    -&gt; athawaren (more wooden)<br>maer (good)         -&gt; ammaer (better)</p>
+<p>如果一个 -i- 在形容词中出现，需要实行前缀的i-影响，让前缀变成 en-/ein-。</p>
+<p>lint (swift) -&gt; ellint (swifter)<br>iaur (old)   -&gt; einiaur (elder)<br>ring (cold)  -&gt; edhring (colder)</p>
+<p>最高级是由词尾 -wain 形成的：</p>
+<p>alag (wild)  -&gt; alagwain (wildest)</p>
+<p>如果被略去，形容词包含双元音，则一些复杂的现象会发生。根据推测，在这种情况下双元音的最后一个部分会被略去，例如： au 变成 a 或者 ae 变成 a 。</p>
+<p>iaur (old)        -&gt; iarwain (oldest)<br>maer (good)       -&gt; marwain (best )<br>uanui (monstrous) -&gt; uanuwain (most monstrous)</p>
+<p>如果形容词的结尾是以下辅音组合之一： -nt-, -nd-, -nc- 或 -mp-, 这些会变成 -nn-, -nn-, -ng- 或 -mm- ，如果被加上了词尾。</p>
+<p>tarlanc (stiff-necked) -&gt; tarlangwain (most stiff-necked)<br>thent (short)          -&gt; thennwain (shortest)</p>
+<h1 id="6-2-2-否定形式"><a href="#6-2-2-否定形式" class="headerlink" title="6.2.2 否定形式"></a>6.2.2 否定形式</h1><p>Sindarin中的句子常常通过前缀 ú- 来否定，这会导致接下来的词的弱音化。在标准的句子中，ú- 被加到动词前。</p>
+<p>cen   -&gt; (he sees)<br>ú-gen -&gt; (he doesn’t see)</p>
+<p>如果句子不含有动词，则这会有一些神秘。有一些可能，前缀在这种情况下可以加给形容词：</p>
+<p>Im lint. (I’m swift.) -&gt; Im ú-lint. (I’m not swift.)<br>Maer. (It is well.)   -&gt; ú-vaer. (It is not well.)</p>
+<p>命令式的否定形式则有些不同：在这里，小品词 avo（会导致弱音化）或者关系密切的前缀 av- （也会导致弱音化）被使用。</p>
+<p>pedo! (speak!)  -&gt; avo bedo!  -&gt; or avbedo (don’t speak!)<br>minno! (enter!) -&gt; avo vinno! -&gt; or avinno (don’t enter!)</p>
+<h1 id="6-2-3-关系从句"><a href="#6-2-3-关系从句" class="headerlink" title="6.2.3 关系从句"></a>6.2.3 关系从句</h1><p>Sindarin中的关系代词和定冠词十分类似：单数形式为 i ，复数形式为 in 。</p>
+<p>i elleth i linna (the elf-maiden who sings)<br>in edhil i maethar (the elves who fight)<br>i ylf i tawaren (the drinking-vessel that is wooden)</p>
+<p>关系代词 i 往往会对关系句的动词导致弱音化，复数代词 in 则会导致鼻音突变。有些时候 i 也会被用作复数形式的关系代词。</p>
 <h1 id="6-3-词汇"><a href="#6-3-词汇" class="headerlink" title="6.3 词汇"></a>6.3 词汇</h1><table>
 <thead>
 <tr>
